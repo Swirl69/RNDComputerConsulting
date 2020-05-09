@@ -1,0 +1,49 @@
+body {
+	margin:0px;
+	width:100%;
+	/* max-width:1300px; */
+	margin-left:auto;
+	margin-right:auto;
+}
+
+h1
+{
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 28px;
+	font-weight: 700;
+}
+h2 {
+
+}
+p
+{
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+/* header */
+.home-header {
+	width:100%;
+	padding:15px;
+}
+.head-flex-wrapper {
+	width:60%;
+	max-width:1300px;
+	margin-right:auto;
+	margin-left:auto;
+	display:flex;
+	justify-content:space-between;
+	align-items:baseline;
+}
+.head-logo {
+	display:block;
+	width:60%;
+	margin-right:auto;
+}
+/* Home Page */
+
+.main-top {
+	background-image: url("/skin/images/Mad-At-Computer.jpg");
+	height:300px;
+}
